@@ -1,7 +1,7 @@
-# Physically Consistent Semi-Calibrated T-Linkage
+# Two-View-Motion-Segmentation-with-Semi-Calibrated-Cameras-via-Hypothesis-Filtering
 
 This repository contains the official supplementary code for the paper: 
-**"Physically Consistent T-Linkage for Semi-Calibrated Motion Segmentation"**.
+**"Two-View-Motion-Segmentation-with-Semi-Calibrated-Cameras-via-Hypothesis-Filtering"**.
 
 The code is provided to allow reviewers to fully reproduce the quantitative and qualitative results presented in the paper. It includes the continuous Tanimoto formulation, the deterministic Min-Heap optimization (via Numba), and the focal length consensus filtering (KDE).
 
